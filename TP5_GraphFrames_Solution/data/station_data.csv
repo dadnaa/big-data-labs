@@ -1,0 +1,9 @@
+station_id,name,lat,long,dockcount,landmark,installation
+1,Townsend at 7th,37.7,-122.4,15,San Francisco,8/6/2013
+2,Spear at Folsom,37.71,-122.405,16,San Francisco,8/6/2013
+3,Embarcadero at Sansome,37.72,-122.41,17,San Francisco,8/6/2013
+4,Market at 4th,37.73,-122.415,18,San Francisco,8/6/2013
+5,Harry Bridges Plaza,37.74,-122.42,19,San Francisco,8/6/2013
+6,Steuart at Market,37.75,-122.425,20,San Francisco,8/6/2013
+7,Powell Street BART,37.76,-122.43,21,San Francisco,8/6/2013
+8,Davis at Jackson,37.77,-122.435,22,San Francisco,8/6/2013
